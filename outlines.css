@@ -1,0 +1,102 @@
+* {
+  padding: 0;
+}
+html,
+body {
+  margin: 0;
+  font-family: "Arial", sans-serif;
+  font-size: 14px;
+}
+
+body {
+  min-width: 430px;
+}
+main,
+header,
+footer {
+  background-color: #f3faff;
+  border: 2px solid #7fc1ff;
+}
+
+nav,
+section,
+article,
+aside {
+  background-color: #f9f7ff;
+  border: 2px solid #9779ec;
+}
+h1,
+h2,
+h3 {
+  font-size: 18px;
+  background-color: #ffffff;
+  border: 2px solid #ff994f;
+  text-align: center;
+}
+p {
+  background-color: #ffffff;
+  border: 2px solid #f36dff;
+}
+* {
+  position: relative;
+  padding: 25px 25px 20px;
+  margin: 0;
+  border-radius: 4px;
+}
+
+*:not(:last-child) {
+  margin-bottom: 20px;
+}
+.contacts {
+  margin-left: -20px;
+  line-height: 1px;
+  font-size: 0.9em;
+}
+.hero-image {
+  text-align: center;
+  text-decoration: underline;
+  size: 50px;
+}
+#hero-image-p {
+  font-weight: 700;
+  padding-right: -20px;
+}
+#up {
+  padding-right: 70px;
+  line-height: 20px;
+}
+#header-p {
+  text-align: center;
+}
+
+#vk {
+  padding: 0;
+  text-decoration: none;
+  padding-left: 45px;
+
+  text-align: right;
+}
+#number {
+  padding: 0;
+  padding-left: 15px;
+}
+#contacts {
+  padding: 0;
+  padding-right: 0;
+  padding-left: 7px;
+}
+#header-span {
+  padding: 0;
+
+  z-index: 2;
+}
+#header-h1 {
+  text-align: center;
+}
+#mail {
+  padding: 0;
+}
+#IT {
+  text-decoration: none;
+  padding: 0;
+}
